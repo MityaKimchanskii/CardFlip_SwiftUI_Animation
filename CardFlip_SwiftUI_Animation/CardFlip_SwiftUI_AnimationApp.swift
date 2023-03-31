@@ -8,7 +8,8 @@
 import SwiftUI
 
 @main
-struct CardFlip_SwiftUI_AnimationApp: App {
+
+struct CardFlipApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
